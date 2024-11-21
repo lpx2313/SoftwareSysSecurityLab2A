@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="lpx666@192.168.6.138:22" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="lpx666@192.168.6.135:22">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="lpx666@192.168.6.135:22 (2) (1)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/lpx666/桌面/workshop/SSlab2" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="lpx666@192.168.6.135:22 (3)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/lpx666/桌面/workshop/SSLab2" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="lpx666@192.168.6.135:22 (4)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/lpx666/桌面/workshop/SSLab2" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="lpx666@192.168.6.135:22 (5)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/lpx666/桌面/workshop/SSLab2" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="lpx666@192.168.6.136:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_789" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="lpx666@192.168.6.136:22 (2)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/lpx666/桌面/workshop/SSLab2" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="lpx666@192.168.6.136:22 (3)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/lpx666/桌面/workshop/SSLab2" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="lpx666@192.168.6.138:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/lpx666/桌面/workshop/SSLab2" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@192.168.6.134:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/Desktop/workshop/SSLab2" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
